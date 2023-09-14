@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there is Dia👋,
 
 <!--
 **DiamondHunters/DiamondHunters** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=DiamondHunters&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
+
+-   :pencil2: C / TypeScript / Python / Java / Golang
+- 🌱 I’m currently learning Application Security Research
+- 🤔 I’m interesting in Program Analysis
+-   :key: GPG key: [`99C780A7D6059E29FCD71AAC959A67F49B84E0E9`](https://keys.openpgp.org/vks/v1/by-fingerprint/99C780A7D6059E29FCD71AAC959A67F49B84E0E9)
